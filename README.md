@@ -129,10 +129,6 @@ https://youtube.com/shorts/jaLBfqnRdrQ
 
 ## 📫 Contact
 
-📍 Spain
-📧 [danielrosaizquierdo@gmail.com](mailto:danielrosaizquierdo@gmail.com)
-📞 +34 622 82 30 29
-
 * LinkedIn: [https://www.linkedin.com/in/daniel-rosaizquierdo-aa4069331](https://www.linkedin.com/in/daniel-rosa-izquierdo-aa4069331)
 * GitHub: [https://github.com/DanielRosaIzquierdo](https://github.com/DanielRosaIzquierdo)
 
