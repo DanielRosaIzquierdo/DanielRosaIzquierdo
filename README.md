@@ -31,7 +31,7 @@ I focus on designing **clean, maintainable and scalable software systems**, work
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,java,spring,nodejs,nestjs,flutter,mysql,mongodb,firebase,docker,git" />
+<img src="https://skillicons.dev/icons?i=angular,spring,nodejs,nestjs,flutter,ts,js,java,mysql,mongodb,firebase,docker,git" />
 
 </p>
 
@@ -59,51 +59,64 @@ I focus on designing **clean, maintainable and scalable software systems**, work
 
 ## 🔥 Projects
 
-### 📱 Ticket Desayuno App
+<table width="100%">
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Links</th>
+  </tr>
 
-QR-based system for managing employee breakfast tickets.
+  <tr>
+    <td>📱 Ticket Desayuno App</td>
+    <td>
+      QR-based discount system for cafés<br><br>
+      • Clean interface focused on usability<br>
+      • QR code scanning for discount tickets<br>
+      • JWT authentication system<br>
+      • Backend built with NestJS
+    </td>
+    <td>
+      🔗 Frontend:<br>
+      <a href="https://github.com/DanielRosaIzquierdo/mi_ticket_desayuno_app">Repository</a><br><br>
+      🔗 Backend:<br>
+      <a href="https://github.com/DanielRosaIzquierdo/mi-ticket-desayuno-back">Repository</a>
+    </td>
+  </tr>
 
-- QR code scanning  
-- Authentication system  
-- Mobile-oriented design  
-- Backend built with NestJS  
+  <tr>
+    <td>🚚 Logistics Management System</td>
+    <td>
+      Role-based system for shipment operations<br><br>
+      • MVC architecture in Java<br>
+      • Email notification system<br>
+      • Role and permission management
+    </td>
+    <td>
+      <a href="https://github.com/DanielRosaIzquierdo/FernanPaaq_PO6">Repository</a>
+    </td>
+  </tr>
 
-🔗 Frontend:  
-https://github.com/DanielRosaIzquierdo/mi_ticket_desayuno_app  
+  <tr>
+    <td>⚽ Football Leagues App</td>
+    <td>
+      Mobile app for managing football leagues<br><br>
+      • Clean interface focused on usability<br>
+      • Flutter frontend<br>
+      • Node.js backend (REST API)<br>
+      • Map integration<br>
+      • Video demo included 🎥
+    </td>
+    <td>
+      🔗 Frontend:<br>
+      <a href="https://github.com/DanielRosaIzquierdo/app_ligas_futbol">Repository</a><br><br>
+      🔗 Backend:<br>
+      <a href="https://github.com/DanielRosaIzquierdo/backend_completo">Repository</a><br><br>
+      🎥 Demo:<br>
+      <a href="https://youtube.com/shorts/jaLBfqnRdrQ">Watch video</a>
+    </td>
+  </tr>
 
-🔗 Backend:  
-https://github.com/DanielRosaIzquierdo/mi-ticket-desayuno-back  
-
----
-
-### 🚚 Logistics Management System (Java MVC)
-
-Role-based system for managing shipments and operations.
-
-- MVC architecture in Java  
-- Email notification system  
-- Role and permission management  
-
-🔗 https://github.com/DanielRosaIzquierdo/FernanPaaq_PO6  
-
----
-
-### ⚽ Football Leagues App (Flutter + Backend API)
-
-Mobile application for football league management.
-
-- Flutter frontend  
-- Backend API (Node.js)  
-- REST API integration  
-
-🔗 Frontend:  
-https://github.com/DanielRosaIzquierdo/app_ligas_futbol  
-
-🔗 Backend:  
-https://github.com/DanielRosaIzquierdo/backend_completo  
-
-🎥 Demo (video preview of the app in action):  
-https://youtube.com/shorts/jaLBfqnRdrQ
+</table>
 
 ---
 
@@ -112,7 +125,7 @@ https://youtube.com/shorts/jaLBfqnRdrQ
 * Clean architecture (layered structure, DTOs, separation of concerns)
 * Scalable backend design
 * Maintainable and readable codebases
-* Practical software problem solving
+* Focus on clean and user-friendly interfaces
 
 ---
 
