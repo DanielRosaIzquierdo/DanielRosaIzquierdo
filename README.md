@@ -65,7 +65,25 @@ I focus on designing **clean, maintainable and scalable software systems**, work
     <th>Description</th>
     <th>Links</th>
   </tr>
-
+<tr>
+  <td>📊 Taskflow Web</td>
+  <td>
+    Full-stack Kanban-style project management system<br><br>
+    • JWT-based authentication system (Spring Security)<br>
+    • Role-based ownership & permissions (owner / member / assignee)<br>
+    • Project & task management with CRUD operations<br>
+    • Kanban board workflow (TODO → IN_PROGRESS → DONE)<br>
+    • Personal dashboard with progress analytics<br>
+    • Angular modular frontend (lazy-loaded architecture)<br>
+    • REST API built with Spring Boot + MySQL
+  </td>
+  <td>
+    🔗 Frontend:<br>
+    <a href="https://github.com/DanielRosaIzquierdo/taskflow-frontend">Repository</a><br><br>
+    🔗 Backend:<br>
+    <a href="https://github.com/DanielRosaIzquierdo/taskflow-backend">Repository</a>
+  </td>
+</tr>
   <tr>
     <td>📱 Ticket Desayuno App</td>
     <td>
@@ -80,19 +98,6 @@ I focus on designing **clean, maintainable and scalable software systems**, work
       <a href="https://github.com/DanielRosaIzquierdo/mi_ticket_desayuno_app">Repository</a><br><br>
       🔗 Backend:<br>
       <a href="https://github.com/DanielRosaIzquierdo/mi-ticket-desayuno-back">Repository</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td>🚚 Logistics Management System</td>
-    <td>
-      Role-based system for shipment operations<br><br>
-      • MVC architecture in Java<br>
-      • Email notification system<br>
-      • Role and permission management
-    </td>
-    <td>
-      <a href="https://github.com/DanielRosaIzquierdo/FernanPaaq_PO6">Repository</a>
     </td>
   </tr>
 
